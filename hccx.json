@@ -17,7 +17,7 @@
 
 {"key": "csp_大豆","name": "🅱️大豆高清|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大豆高清.json"},
 
-{"key": "csp_看看剧","name": "🅱️看剧影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看剧.json"},
+{"key": "csp_看看","name": "🅱️看看影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看剧.json"},
 
 {"key": "csp_热播","name": "🅱️热播之家|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/热播之家.json"},
 
