@@ -19,6 +19,8 @@
 
 {"key": "csp_落攻阁","name": "🅱️落攻影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/落攻阁影视.json"},
 
+{"key": "csp_91","name": "🅱️玖摇影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/91影视.json"},
+
 {"key": "csp_我爱","name": "🅱️我爱看剧|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/52看剧.json"},
 
 {"key": "csp_端木","name": "🅱️端木蓝光|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/端木蓝光.json"},
@@ -39,7 +41,7 @@
 
 {"key": "csp_西瓜","name": "🅱️西瓜影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/西瓜影视.json"},
 
-{"key": "csp_胖虎","name": "🅱️胖虎影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/胖虎影视.json"},
+//{"key": "csp_胖虎","name": "🅱️胖虎影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/胖虎影视.json"},
 
 {"key": "csp_xBPQ_奇优","name": "🅱️奇优影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/奇优影视.json"},
 
