@@ -15,6 +15,8 @@
 
 {"key": "csp_xBPQ_视觉","name": "🅱️视觉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/新视觉影视.json"},
 
+{"key": "csp_明帝","name": "🅱️明帝影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/明帝影视.json"},
+
 {"key": "csp_我爱","name": "🅱️我爱看剧|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/52看剧.json"},
 
 {"key": "csp_端木","name": "🅱️端木蓝光|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/端木蓝光.json"},
