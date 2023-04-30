@@ -15,12 +15,22 @@
     "副标题":"<span>&&</span>",
     
     "链接":"href=\"&&\"",
-    
-    //"搜索url":"/search-pg-{pg}-wd-{wd}.html",
-    
+        
     "简介":"tbox_js\">&&</div>",
     
     "影片类型":"<p class=\"yac\">&&立即播放",
+    
+    "搜索url":"/index.php?m=vod-search;post;wd={wd}&search=",
+    
+    "搜索数组":"class=\"vbox\">&&</a>",
+    
+    "搜索标题":"title=\"&&\"",
+    
+    "搜索副标题":"<span>&&</span>",
+    
+    "搜索图片":"data-original=\"&&\"",
+    
+    "搜索链接":"href=\"&&\"",
     
     "线路数组":"<div class=\"tbox_t\"&&</div>",
     
