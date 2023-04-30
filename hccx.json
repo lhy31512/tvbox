@@ -65,7 +65,7 @@
 
 {"key": "PanSou","name": "🔍阿里|盘搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt"},
 
-{"key": "UpYun","name": "🔍阿里|优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt},
+{"key": "UpYun","name": "🔍阿里|优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt"},
 
 {"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt"},
 
