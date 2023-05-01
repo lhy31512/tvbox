@@ -61,7 +61,9 @@
 
 {"key": "csp_大米","name": "🅱️大米星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大米星球.json"},
 
-{"key": "csp_大豆","name": "🅱️大豆高清|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大豆高清.json"},
+{"key": "csp_爱影","name": "🅱️爱影剧院|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/爱影视.json"},
+
+//{"key": "csp_大豆","name": "🅱️大豆高清|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大豆高清.json"},
 
 {"key": "py_cctv_full","name": "📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./TV/py_ysdq.py"},
 
