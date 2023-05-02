@@ -13,7 +13,7 @@
     
 {"key": "csp_非凡","name": "🅱️茶秀非凡|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/非凡资源网.json"},
 
-{"key": "csp_xBPQ_思古","name": "🅱️思古影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/思古影视.json"},
+{"key": "csp_段友","name": "🅱️段友影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/段友影视.json"},
 
 {"key": "csp_xBPQ_视觉","name": "🅱️视觉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/新视觉影视.json"},
 
@@ -30,6 +30,8 @@
 {"key": "csp_端木","name": "🅱️端木蓝光|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/端木蓝光.json"},
 
 {"key": "csp_农民","name": "🅱️农民影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/农民影视.json"},
+
+{"key": "csp_xBPQ_神马","name": "🅱️神马影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/神马影视.json"},
 
 {"key": "csp_看看","name": "🅱️看看影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看剧.json"},
 
@@ -63,7 +65,9 @@
 
 {"key": "csp_爱影","name": "🅱️爱影剧院|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/爱影视.json"},
 
-//{"key": "csp_大豆","name": "🅱️大豆高清|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大豆高清.json"},
+{"key": "csp_xBPQ_思古","name": "🅱️思古影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/思古影视.json"},
+
+{"key": "csp_大豆","name": "🅱️大豆高清|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大豆高清.json"},
 
 {"key": "py_cctv_full","name": "📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./TV/py_ysdq.py"},
 
