@@ -13,7 +13,7 @@
     
 {"key": "csp_非凡","name": "🅱️茶秀非凡|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/非凡资源网.json"},
 
-{"key": "csp_段友","name": "🅱️段友影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/段友影视.json"},
+{"key": "csp_段友","name": "🅱️段友影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/段友影视.json"},
 
 {"key": "csp_xBPQ_视觉","name": "🅱️视觉影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/新视觉影视.json"},
 
